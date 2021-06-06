@@ -1,8 +1,8 @@
-<h1><img src="Todo.jpg" alt="ToDo List Project" width="50%"></h1>
+<h1><img src="ATM.png" alt="Bank ATM Project" width="50%"></h1>
 
 
-# Eye Exercise Project
-> MIT xPRO - Week 14
+# ATM Machine Project
+> MIT xPRO - Week 15
 
 This project was part of the course work required in the MIT xPRO Full-Stack development course taken.
 
