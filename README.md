@@ -1,4 +1,4 @@
-<h1><img src="ATM.jpg" alt="Bank ATM Project" width="50%"></h1>
+<h1><img src="ATM.png" alt="Bank ATM Project" width="20%"></h1>
 
 
 # ATM Machine Project
@@ -8,15 +8,15 @@ This project was part of the course work required in the MIT xPRO Full-Stack dev
 
 ## Description
 
-A basic project to create a ToDo list. The list will enable a user to track tasks that they need to complete by adding the tasks to the list as well as clicking on a task to delete it once it is complete.
+A basic project to create an ATM Machine. The ATM will allow the user to track his bank balance by offering the functionality of both inserting values for deposits and withdrawals. Once a value is inserted an updated balance will be shown.
 
 ### Features
 
-* A partially populated list desperately looking to be filled
+* A fully functional ATM machine
 
 ## Installation
 
-Clone the files that are in the ToDoList directory to your local machine.
+Clone the files that are in the ATM-Machine directory to your local machine.
 A local server is needed to run the test React applications.
 To do this complete the following steps:
 - Download Live Server extension in VS code OR
@@ -31,24 +31,18 @@ To do this complete the following steps:
 ## Usage
 
 ### Usage:
-Life falling apart? Can't seem to get everything done? Are there too few hours in your days and oo few days in your life? Never fear, as this ToDo List is just about the answer to your every life problem. Simply add whatever task you need to do to the list and then go ahead and do it. BOOM! Problems solved. Life Sorted. 
-Don't forget to delete the task after it is complete to stop yourself doing it again...
+Don't overspend. Don't fall into financial awkwardness. Use the ATM Machine. Track your balance. Change your life.
 
 ### Expected outcomes:
-Fear.
-Disbelief.
-FREEDOM.
+SHOW ME THE MONEY $$$$
 
 ## Support
 
-If by some unexpected circumstance the tasks stop tasking, please get hold of me at gman.international@gmail.com and I will make it all right again.
+If by some unexpected circumstance the money stops flowing, please get hold of me at gman.international@gmail.com and I will make it all right again.
 
 ## Roadmap
 
-Oh we have so many places to go... 
-What starts off as tasks can end up as repeatable routines, and dare we even say projects.
-Adding more detail to each task, adding sub tasks, adding grouping for different task lists, adding reminders, the list goes on.
-And the best part about that is I have all the above potential additions saved where? You guessed it, my ToDo List!
+The next version will be solving your needs by printing money. The FED does it, why can't we...
 
 ## Versioning
 
