@@ -1,4 +1,4 @@
-<h1><img src="ATM.png" alt="Bank ATM Project" width="50%"></h1>
+<h1><img src="ATM.jpg" alt="Bank ATM Project" width="50%"></h1>
 
 
 # ATM Machine Project
