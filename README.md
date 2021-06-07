@@ -8,7 +8,7 @@ This project was part of the course work required in the MIT xPRO Full-Stack dev
 
 ## Description
 
-A basic project to create an ATM Machine. The ATM will allow the user to track his bank balance by offering the functionality of both inserting values for deposits and withdrawals. Once a value is inserted an updated balance will be shown.
+A basic project to create an ATM Machine. The ATM will allow the user to track his bank balance by offering the functionality of both inserting positive values for deposits and negative withdrawals. Once a value is inserted an updated balance will be shown. If the customer overdraws he will get an alert saying that he has insufficient funds.
 
 ### Features
 
@@ -29,12 +29,13 @@ To do this complete the following steps:
 
 
 ## Usage
+Keep track on bank balances.
 
 ### Usage:
 Don't overspend. Don't fall into financial awkwardness. Use the ATM Machine. Track your balance. Change your life.
 
 ### Expected outcomes:
-SHOW ME THE MONEY $$$$
+SHOW ME THE MONEY $
 
 ## Support
 
